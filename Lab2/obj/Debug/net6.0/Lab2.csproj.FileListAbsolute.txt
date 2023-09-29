@@ -6,6 +6,13 @@ C:\Users\Trang\Desktop\484 Solutions\Lab2\Lab2\bin\Debug\net6.0\Lab2.deps.json
 C:\Users\Trang\Desktop\484 Solutions\Lab2\Lab2\bin\Debug\net6.0\Lab2.runtimeconfig.json
 C:\Users\Trang\Desktop\484 Solutions\Lab2\Lab2\bin\Debug\net6.0\Lab2.dll
 C:\Users\Trang\Desktop\484 Solutions\Lab2\Lab2\bin\Debug\net6.0\Lab2.pdb
+C:\Users\Trang\Desktop\484 Solutions\Lab2\Lab2\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Trang\Desktop\484 Solutions\Lab2\Lab2\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Trang\Desktop\484 Solutions\Lab2\Lab2\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Trang\Desktop\484 Solutions\Lab2\Lab2\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Trang\Desktop\484 Solutions\Lab2\Lab2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Trang\Desktop\484 Solutions\Lab2\Lab2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Trang\Desktop\484 Solutions\Lab2\Lab2\obj\Debug\net6.0\Lab2.csproj.AssemblyReference.cache
 C:\Users\Trang\Desktop\484 Solutions\Lab2\Lab2\obj\Debug\net6.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Trang\Desktop\484 Solutions\Lab2\Lab2\obj\Debug\net6.0\Lab2.AssemblyInfoInputs.cache
 C:\Users\Trang\Desktop\484 Solutions\Lab2\Lab2\obj\Debug\net6.0\Lab2.AssemblyInfo.cs
@@ -23,6 +30,7 @@ C:\Users\Trang\Desktop\484 Solutions\Lab2\Lab2\obj\Debug\net6.0\staticwebassets.
 C:\Users\Trang\Desktop\484 Solutions\Lab2\Lab2\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Trang\Desktop\484 Solutions\Lab2\Lab2\obj\Debug\net6.0\scopedcss\bundle\Lab2.styles.css
 C:\Users\Trang\Desktop\484 Solutions\Lab2\Lab2\obj\Debug\net6.0\scopedcss\projectbundle\Lab2.bundle.scp.css
+C:\Users\Trang\Desktop\484 Solutions\Lab2\Lab2\obj\Debug\net6.0\Lab2.csproj.CopyComplete
 C:\Users\Trang\Desktop\484 Solutions\Lab2\Lab2\obj\Debug\net6.0\Lab2.dll
 C:\Users\Trang\Desktop\484 Solutions\Lab2\Lab2\obj\Debug\net6.0\refint\Lab2.dll
 C:\Users\Trang\Desktop\484 Solutions\Lab2\Lab2\obj\Debug\net6.0\Lab2.pdb

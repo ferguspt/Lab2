@@ -16,12 +16,28 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Trang\Desktop\484 Solutions\Lab2\Lab2
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Trang/Desktop/484 Solutions/Lab2/Lab2/Pages/ChooseUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hvb3NlVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Trang/Desktop/484 Solutions/Lab2/Lab2/Pages/Conference.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29uZmVyZW5jZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Trang/Desktop/484 Solutions/Lab2/Lab2/Pages/DisplayData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzcGxheURhdGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Trang/Desktop/484 Solutions/Lab2/Lab2/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Trang/Desktop/484 Solutions/Lab2/Lab2/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Trang/Desktop/484 Solutions/Lab2/Lab2/Pages/Presentation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlc2VudGF0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Trang/Desktop/484 Solutions/Lab2/Lab2/Pages/Privacy.cshtml]
